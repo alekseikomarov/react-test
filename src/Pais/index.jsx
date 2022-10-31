@@ -2,7 +2,7 @@ import './style.css'
 
 const Pais = () => {
     return(
-        <h1>Pealkiri</h1>
+        <h1>Ilma rakendus</h1>
     )
 }
 

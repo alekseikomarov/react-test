@@ -1,15 +1,16 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import Pais from './Pais'
+import IlmaInfo from './Ilmainfo'
 import './App.css'
 
 function App(){
-  return(
-    <div className='App'>
-      <Pais />
-      Sisu
-    </div>
-  )
-}
-
+  
+      return (
+        <div className='App'>
+         <Pais /> 
+         <IlmaInfo />
+        </div>
+      )
+    }
 
 export default App
