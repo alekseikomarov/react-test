@@ -1,5 +1,5 @@
 //import { useState, useEffect } from "react"
-import HetkeIlm from "../Hetkeilm"
+import HetkeIlm from "../HetkeIlm"
 import IlmaEnnustus from "../IlmaEnnustus"
 
 const ilm = {"temperature":"20 °C","wind":"11 km/h","description":"Sunny",
