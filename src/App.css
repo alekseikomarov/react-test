@@ -1,4 +1,22 @@
 .App {
   margin-left: 20px;
+  margin-top: 5px;
+  width: 400px;
+  text-align: center;
+  border: solid green 1px;
+  border-radius: 4px;
+  padding-bottom: 4px;
 }
 
+h1{
+  color: brown;
+}
+
+.nupp {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.kaart{
+  background-color: yellow;
+}
